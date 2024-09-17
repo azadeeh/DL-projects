@@ -19,8 +19,7 @@ This is a Python-based RollCall application that leverages SIFT (Scale-Invariant
 -Tkinter: For the graphical user interface (GUI).
 
 # Prerequisites:    
-Python 3.x
-Required Libraries:
-OpenCV
-Tkinter
-Database (SQLite/MySQL or others)
+-Python 3.x
+-OpenCV
+-Tkinter
+-Database (SQLite/MySQL or others)
