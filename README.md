@@ -13,13 +13,13 @@ This is a Python-based RollCall application that leverages SIFT (Scale-Invariant
  4-The system records the employee's name along with the timestamp and date in the database for future reference.
 
  # Technologies Used:
--Python: Core programming language.
--SIFT Algorithm: Used for detecting and matching key facial features for face recognition.
--OpenCV: (If used) For handling camera input and image processing.
--Tkinter: For the graphical user interface (GUI).
+- Python: Core programming language.
+- SIFT Algorithm: Used for detecting and matching key facial features for face recognition.
+- OpenCV: (If used) For handling camera input and image processing.
+- Tkinter: For the graphical user interface (GUI).
 
 # Prerequisites:    
--Python 3.x
--OpenCV
--Tkinter
--Database (SQLite/MySQL or others)
+- Python 3.x
+- OpenCV
+- Tkinter
+- Database (SQLite/MySQL or others)
