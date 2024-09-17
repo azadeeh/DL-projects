@@ -7,16 +7,16 @@ This is a Python-based RollCall application that leverages SIFT (Scale-Invariant
 - Attendance Logging: Once identified, the system logs the employee's name, time, and date of entry into a database for attendance tracking.
 - Graphical User Interface: The application is equipped with a Tkinter GUI to provide an intuitive and user-friendly interface.
 # How It Works:
-  1-The employee stands in front of the camera at a specified distance.
-2-The application detects the face and extracts unique facial features using the SIFT algorithm.
-3-If a match is found in the employee database, the person's name is identified.
-4-The system records the employee's name along with the timestamp and date in the database for future reference.
+ 1-The employee stands in front of the camera at a specified distance.
+ 2-The application detects the face and extracts unique facial features using the SIFT algorithm.
+ 3-If a match is found in the employee database, the person's name is identified.
+ 4-The system records the employee's name along with the timestamp and date in the database for future reference.
 
  # Technologies Used:
-Python: Core programming language.
-SIFT Algorithm: Used for detecting and matching key facial features for face recognition.
-OpenCV: (If used) For handling camera input and image processing.
-Tkinter: For the graphical user interface (GUI).
+-Python: Core programming language.
+-SIFT Algorithm: Used for detecting and matching key facial features for face recognition.
+-OpenCV: (If used) For handling camera input and image processing.
+-Tkinter: For the graphical user interface (GUI).
 
 # Prerequisites:    
 Python 3.x
